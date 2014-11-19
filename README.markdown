@@ -29,3 +29,5 @@ Please use [GitHub Issues](https://github.com/openbeerdatabase/openbeerdatabase/
 ## License
 
 Open Beer Database uses the MIT license. See LICENSE for more details.
+
+
